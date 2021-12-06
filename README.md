@@ -1,4 +1,4 @@
-# Hacker_Rank_Sql_Exercise
+# Hacker Rank Sql Exercise
 
 ![image](https://user-images.githubusercontent.com/55734436/112081767-92a56e00-8bc7-11eb-8039-0122f397543b.png)
 
